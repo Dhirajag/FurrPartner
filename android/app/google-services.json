@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "655200664291",
+    "project_id": "furrcrew-app",
+    "storage_bucket": "furrcrew-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655200664291:android:53589be5d82e4da73523d6",
+        "android_client_info": {
+          "package_name": "com.furrcrew.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655200664291-ioubsmsvfu7nt3t3n95op5bgelsr1a8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVFbZlFeXcdt8aNOEqKpiONculcrPJE-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655200664291-ioubsmsvfu7nt3t3n95op5bgelsr1a8k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655200664291-fiv0v73piuj5ojsumtf94nhin3iq8tut.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.furrcrew.app",
+                "app_store_id": "6451879293"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655200664291:android:9851c256f5e72b5d3523d6",
+        "android_client_info": {
+          "package_name": "com.furrcrew.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655200664291-ioubsmsvfu7nt3t3n95op5bgelsr1a8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVFbZlFeXcdt8aNOEqKpiONculcrPJE-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655200664291-ioubsmsvfu7nt3t3n95op5bgelsr1a8k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655200664291-fiv0v73piuj5ojsumtf94nhin3iq8tut.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.furrcrew.app",
+                "app_store_id": "6451879293"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

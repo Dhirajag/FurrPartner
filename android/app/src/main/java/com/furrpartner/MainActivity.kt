@@ -1,4 +1,4 @@
-package com.furrpartner
+package com.furrcrew.partner
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
